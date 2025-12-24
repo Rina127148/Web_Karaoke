@@ -589,7 +589,6 @@ section:nth-child(even) {
     position: relative;
     overflow: visible;
     margin: 0;
-    padding: 0 10px;
 }
 
 .slider-container {
