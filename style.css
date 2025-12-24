@@ -587,7 +587,7 @@ section:nth-child(even) {
    ============================================= */
 .halls-slider {
     position: relative;
-    overflow: hidden;
+    overflow: visible;
     margin: 0;
     padding: 0 10px;
 }
