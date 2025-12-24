@@ -1559,7 +1559,7 @@ input:focus, select:focus, textarea:focus {
 .reviews-slider {
     position: relative;
     overflow: hidden;
-    margin-bottom: 70px !important;
+    margin-bottom: 40px;
     margin: 0;
     padding: 0 10px;
 }
@@ -1615,7 +1615,7 @@ input:focus, select:focus, textarea:focus {
 }
 
 .add-review {
-    margin-top: 80px !important;
+    margin-top: 40px;
     background-color: rgba(26, 26, 46, 0.7);
     padding: 30px;
     border-radius: 10px;
